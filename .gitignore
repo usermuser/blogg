@@ -1,0 +1,3 @@
+#this string will be ignored
+*.pyc
+*.sqlite3
